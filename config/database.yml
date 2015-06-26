@@ -1,0 +1,8 @@
+---
+test:
+  adapter: postgresql
+  host: localhost
+  username: Ping
+  database: Ping
+  password: pass
+  encoding: utf8
